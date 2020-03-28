@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a68c592-b61a-461a-b6cd-4b00c3f375c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZlyTqBe2Z9oLDcolvX89o8eCUm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ReplState" timestamp="1585428955289">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="RunManager">
+    <configuration name="DevRepl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="cljsrc" />
+      <setting name="replType" value="CLOJURE_MAIN" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="dev/user.clj" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="fig:build" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a68c592-b61a-461a-b6cd-4b00c3f375c3" name="Default Changelist" comment="" />
+      <created>1585427985515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585427985515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="132" width="1071" height="928" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585428703659">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="543" y="132" width="1071" height="928" key="#com.intellij.execution.impl.EditConfigurationsDialog/-63.-1057.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585428703659" />
+    <state x="397" y="210" key="SettingsEditor" timestamp="1585428350084">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="397" y="210" key="SettingsEditor/-63.-1057.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585428350084" />
+    <state x="573" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1585427994681">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="573" y="403" key="com.intellij.ide.util.TipDialog/-63.-1057.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585427994681" />
+    <state x="520" y="268" width="752" height="676" key="search.everywhere.popup" timestamp="1585428334231">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="520" y="268" width="752" height="676" key="search.everywhere.popup/-63.-1057.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585428334231" />
+  </component>
+</project>
