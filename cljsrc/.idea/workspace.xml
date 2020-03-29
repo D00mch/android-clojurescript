@@ -1,7 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a68c592-b61a-461a-b6cd-4b00c3f375c3" name="Default Changelist" comment="" />
+    <list default="true" id="2a68c592-b61a-461a-b6cd-4b00c3f375c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../androidsrc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/androidTest/java/com/livermor/androidsrc/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev-main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/cljs/core.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/cljs/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/cljs/core/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/cljsc_opts.edn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/cljsc_opts.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/cljsjs/create-react-class/production/create-react-class.min.inc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/cljsjs/react-dom/production/react-dom.min.inc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/cljsjs/react/production/react.min.inc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/cljsrc/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/clojure/set.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/clojure/set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/clojure/string.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/clojure/string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/clojure/walk.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/clojure/walk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/array/array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/asserts/asserts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/debug/error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/dom/asserts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/dom/browserfeature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/dom/dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/dom/htmlelement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/dom/nodetype.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/dom/safe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/dom/tagname.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/dom/tags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/fs/url.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/functions/functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/html/safehtml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/html/safescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/html/safestyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/html/safestylesheet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/html/safeurl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/html/trustedresourceurl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/html/uncheckedconversions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/i18n/bidi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/iter/iter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/labs/useragent/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/labs/useragent/engine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/labs/useragent/platform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/labs/useragent/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/math/coordinate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/math/integer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/math/long.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/math/math.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/math/size.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/object/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/reflect/reflect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/string/const.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/string/string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/string/stringbuffer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/string/typedstring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/structs/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/structs/structs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/uri/uri.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/uri/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/goog/useragent/useragent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/process/env.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/process/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/core.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/debug.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/dom.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/impl/batching.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/impl/batching.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/impl/component.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/impl/component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/impl/template.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/impl/template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/impl/util.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/impl/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/interop.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/interop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/ratom.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/cljs-out/dev/reagent/ratom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/assets/js/page/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/java/com/livermor/androidsrc/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/app/src/test/java/com/livermor/androidsrc/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidsrc/settings.gradle" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +135,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZlyTqBe2Z9oLDcolvX89o8eCUm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
