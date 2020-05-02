@@ -12,3 +12,9 @@ pom.xml
 .nrepl-port
 .cpcache/
 .rebel_readline_history
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
