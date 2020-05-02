@@ -21,14 +21,13 @@ class MainActivity : AppCompatActivity() {
                     return true
                 }
             }
-            settings.setUp()
+            setUp(settings)
             loadUrl(URL)
         }
     }
 
-
     @SuppressLint("SetJavaScriptEnabled")
-    fun WebSettings.setUp() {
+    fun setUp(settings: WebSettings) = with(settings) {
         javaScriptEnabled = true
         domStorageEnabled = true
         loadWithOverviewMode = true
