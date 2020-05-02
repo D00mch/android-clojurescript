@@ -16,7 +16,7 @@
 
 (defn hello-world []
   [:div
-   [:h1 (:text @app-state)]
+   [:h1 {:on-click #(js/Android.showToast "click")} (:text @app-state)]
    [:h3 "Edit this in src/cljsrc/core.cljs and watch it change!"]])
 
 (defn mount [el]

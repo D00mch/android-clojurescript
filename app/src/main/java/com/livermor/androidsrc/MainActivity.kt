@@ -2,10 +2,14 @@ package com.livermor.androidsrc
 
 import android.annotation.SuppressLint
 import android.os.Bundle
+import android.webkit.JavascriptInterface
 import android.webkit.WebSettings
 import android.webkit.WebView
 import android.webkit.WebViewClient
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+
+private const val URL: String = "file:///android_asset/js/page/index.html"
 
 class MainActivity : AppCompatActivity() {
 
@@ -21,8 +25,13 @@ class MainActivity : AppCompatActivity() {
                     return true
                 }
             }
+            addJavascriptInterface(ExampleJSInterface(), "Android")
             setUp(settings)
-            loadUrl(URL)
+
+            // To work with localhost
+            val url = if (BuildConfig.DEBUG) "http://10.0.2.2:9500/" else URL
+
+            loadUrl(url)
         }
     }
 
@@ -39,7 +48,10 @@ class MainActivity : AppCompatActivity() {
         if (!webView.canGoBack()) super.onBackPressed()
     }
 
-    companion object {
-        const val URL: String = "file:///android_asset/js/page/index.html"
+    inner class ExampleJSInterface {
+        @JavascriptInterface
+        fun showToast(toast: String) = runOnUiThread {
+            Toast.makeText(this@MainActivity, toast, Toast.LENGTH_LONG).show()
+        }
     }
 }
